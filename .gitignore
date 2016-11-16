@@ -1,0 +1,7 @@
+/node_modules
+.*
+/public/excel/*
+!/public/excel/sample_excel.xlsx
+/public/sql/*
+manifest.yml
+!.gitignore
