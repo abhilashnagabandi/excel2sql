@@ -37,9 +37,9 @@ http://localhost:3000/sql/select.sql </br>
 http://localhost:3000/sql/delete.sql
 
 ## Others
-Still working on HTML.
-Other planned features:
-excel uploading
+Still working on HTML.</br>
+Other planned features:</br>
+excel uploading</br>
 Updating and inserting sqls
 
 ## License
